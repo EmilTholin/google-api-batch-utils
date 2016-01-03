@@ -1,0 +1,15 @@
+{
+  "name": "google-api-batch-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for creating request bodies and parsing batch responses for Google's REST APIs",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tholle <emtholin@gmail.com>",
+  "license": "MIT",
+  "repository": "EmilTholin/google-api-batch-utils",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
