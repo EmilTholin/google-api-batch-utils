@@ -1,6 +1,6 @@
 {
   "name": "google-api-batch-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functions for creating request bodies and parsing batch responses for Google's REST APIs",
   "main": "lib",
   "scripts": {
